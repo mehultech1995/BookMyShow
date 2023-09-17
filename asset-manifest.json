@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/BookMyShow/static/css/main.965c564e.css",
+    "main.js": "/BookMyShow/static/js/main.390c206d.js",
+    "static/media/back.jpg": "/BookMyShow/static/media/back.c1a720143dd30c734586.jpg",
+    "index.html": "/BookMyShow/index.html",
+    "main.965c564e.css.map": "/BookMyShow/static/css/main.965c564e.css.map",
+    "main.390c206d.js.map": "/BookMyShow/static/js/main.390c206d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.965c564e.css",
+    "static/js/main.390c206d.js"
+  ]
+}
