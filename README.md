@@ -1,18 +1,21 @@
-# Book Your Show
+# This is a Full-Stack-Project 
+ Author - Mehul Yadav
+
+# Book My Show
 
 <h3 align="center">
-  Book Your Show Website preview <br/>
-  <a href="https://book-your-show-ui.onrender.com/" target="_blank"><img alt="Demo" src="" /> </a>
+  Book My Show Website preview <br/>
+  <a href="https://mehultech1995.github.io/BookMyShow/" target="_blank"><img alt="Demo" src="redme-Img.png" /> </a>
 </h3>
 
 <br>
-<h5>This is a Ticket Booking website where the user can book a movie with specified seats at a specified slot and get a confirmation that, wheteher booking was sucessful or not.
+<h5>This is a Ticket Booking website where the user can book a movie ticket with specified seats at a specified slot and get a confirmation that, whether booking was successful or not.
 
 The movie booked by the user will be stored in database and is retrived and shown to the user.</h5>
 
 
 ## 📖 Website's Live URL  
-  https://book-your-show-ui.onrender.com/  
+  https://mehultech1995.github.io/BookMyShow/  
   (or you can just click on above image will redirect you to the website)
 
 
@@ -29,20 +32,16 @@ The movie booked by the user will be stored in database and is retrived and show
     for global color.
 - #### React-Toastify
     for showing Success alert on booking sucessfully  and error alert for any error to user.
-    
-### 🔹 aditionally 
--   I used Canva for Background Image
 
+## To open the app in your loacl browser.
+
+Open [http://localhost:3000]to view the website in your local browser.
 
 ## 🛠 Installation and Setup Instructions
 
 1. Installation: `npm install`
 
 2. In the project directory, you can run: `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-The page will reload if you make edits.
 
 ##
 <h4 align="center">Made by Mehul</h4>
