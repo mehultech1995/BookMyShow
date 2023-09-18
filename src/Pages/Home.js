@@ -1,7 +1,7 @@
 import LastBookingData from "../Components/LastBookingDetails";
 import SelectMovieButton from "../Components/SelectMovieButton";
 import SelectSeats from "../Components/SelectSeats";
-import TimeShedule from "../Components/SelectTimeShedule";
+import TimeShedule from "../Components/SelectTimeSlot";
 import "../styles/Home.css";
 import BsContext from "../Context/BsContext";
 import { useContext } from "react";
