@@ -11,27 +11,27 @@
 <br>
 <h5>This is a Ticket Booking website where the user can book a movie ticket with specified seats at a specified slot and get a confirmation that, whether booking was successful or not.
 
-The movie booked by the user will be stored in database and is retrived and shown to the user.</h5>
+The movie booked by the user will be stored in the database and is retrieved and shown to the user.</h5>
 
 
 ## 📖 Website's Live URL  
   [https://mehultech1995.github.io/BookMyShow/ ](https://mehultech1995.github.io/BookMyShow-FrontEnd/) 
-  (or you can just click on above image will redirect you to the website)
+  (You can just click on URL to visit the website)
 
 
 ## ⭐ Technologies that are used.
 
 ### FrontEnd
 - #### React  
-    This app is fully built on top of react library.
+    This app is fully built on top of the React library.
 - #### Axios / Fetch
-    Used for making api calls.
+    Used for making API calls.
 - #### Context API
     for managing states and props.
 - #### var()
     for global color.
 - #### React-Toastify
-    for showing Success alert on booking sucessfully  and error alert for any error to user.
+    for showing a Success alert on booking successfully and an error alert for any error to the user.
 
 ## To open the app in your local browser.
 
