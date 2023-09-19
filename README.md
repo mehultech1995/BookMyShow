@@ -33,7 +33,7 @@ The movie booked by the user will be stored in database and is retrived and show
 - #### React-Toastify
     for showing Success alert on booking sucessfully  and error alert for any error to user.
 
-## To open the app in your loacl browser.
+## To open the app in your local browser.
 
 Open [http://localhost:3000]to view the website in your local browser.
 
