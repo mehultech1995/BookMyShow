@@ -5,7 +5,7 @@
 
 <h3 align="center">
   Book My Show Website preview <br/>
-  <a href="https://mehultech1995.github.io/BookMyShow/" target="_blank"><img alt="Demo" src="redme-Img.png" /> </a>
+  <a href="[https://mehultech1995.github.io/BookMyShow/](https://mehultech1995.github.io/BookMyShow-FrontEnd/)" target="_blank"><img alt="Demo" src="redme-Img.png" /> </a>
 </h3>
 
 <br>
@@ -15,7 +15,7 @@ The movie booked by the user will be stored in database and is retrived and show
 
 
 ## 📖 Website's Live URL  
-  https://mehultech1995.github.io/BookMyShow/  
+  [https://mehultech1995.github.io/BookMyShow/ ](https://mehultech1995.github.io/BookMyShow-FrontEnd/) 
   (or you can just click on above image will redirect you to the website)
 
 
