@@ -1,5 +1,5 @@
 # This is a Full-Stack-Project 
- <h3Author - Mehul Yadav
+ Author - Mehul Yadav
 # Book My Show
 
 <h3 align="center">
