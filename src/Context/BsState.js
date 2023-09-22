@@ -2,10 +2,6 @@ import React, { useState, useEffect } from "react";
 import BsContext from "./BsContext";
 
 
-
-
-
-
 const BsState = (props) => {
   const [time, changeTime] = useState("");                // time slot which the user selects.
   const [movie, changeMovie] = useState("");              // Movie which the user selects.
@@ -25,7 +21,7 @@ const BsState = (props) => {
     try {
         
         const res = await fetch(
-          "http://localhost:8080/api/booking",
+          `https://bookmyshowapi-r3ks.onrender.com/api/booking`,
           {
             method: "POST",
             headers: {
