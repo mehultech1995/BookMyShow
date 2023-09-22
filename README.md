@@ -1,6 +1,6 @@
 # This is a Full-Stack-Project 
  Author - Mehul Yadav
-email - mehulyadav@gmail.com
+ Email - mehulyadav@gmail.com
 # Book My Show
 
 <h3 align="center">
