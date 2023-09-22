@@ -1,6 +1,5 @@
 # This is a Full-Stack-Project 
- Author - Mehul Yadav
- Email - mehulyadav@gmail.com
+ <h3Author - Mehul Yadav
 # Book My Show
 
 <h3 align="center">
